@@ -386,20 +386,19 @@ html{
 }
 
 
-.statistics .section-title{
+.statistics .section-title {
+    font-size: 38px;
+    margin-bottom: 45px;
 
-    font-size:38px;
-    margin-bottom:45px;
-
-    background:linear-gradient(
+    background: linear-gradient(
         90deg,
         #e9d5ff,
         #c084fc
     );
 
-    -webkit-background-clip:text;
-    color:transparent;
-
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
 
 
@@ -460,7 +459,7 @@ html{
     );
 
     -webkit-background-clip:text;
-
+    background-clip:text;
     color:transparent;
 
 }
