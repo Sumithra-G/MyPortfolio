@@ -2180,13 +2180,11 @@ font-size:20px;
 
     margin-bottom:15px;
 
-    background:
-
-    linear-gradient(90deg,#f0abfc,#f9a8d4);
-
-    -webkit-background-clip:text;
-
-    color:transparent;
+   background: linear-gradient(90deg,#f0abfc,#f9a8d4);
+   background-clip: text;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   color: transparent;
 
 }
 
