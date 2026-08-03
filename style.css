@@ -835,24 +835,24 @@ html{
                 CERTIFICATES SECTION
    ================================================== */
 
-#Certifications{
+#certifications{
     padding:90px 8%;
     background:transparent;
 }
 
-#Certifications .section-header{
+#certifications .section-header{
     text-align:center;
     margin-bottom:50px;
 }
 
-#Certifications .section-title{
+#certifications .section-title{
     font-size:38px;
     font-weight:700;
     color:#2e1065;
     margin-bottom:15px;
 }
 
-#Certifications .section-title::after{
+#certifications .section-title::after{
     content:"";
     display:block;
     width:70px;
@@ -862,7 +862,7 @@ html{
     background:linear-gradient(90deg,#8b5cf6,#ec4899);
 }
 
-#Certifications .section-subtitle{
+#certifications .section-subtitle{
     max-width:760px;
     margin:auto;
     color:#5b4b7a;
@@ -1119,13 +1119,13 @@ html{
 
 @media(max-width:768px){
 
-    #Certifications{
+    #certifications{
 
         padding:70px 5%;
 
     }
 
-    #Certifications .section-title{
+    #certifications .section-title{
 
         font-size:30px;
 
